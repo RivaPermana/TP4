@@ -12,3 +12,4 @@ D:\VS\TPMOD4\TPMOD4\obj\Debug\net8.0\refint\TPMOD4.dll
 D:\VS\TPMOD4\TPMOD4\obj\Debug\net8.0\TPMOD4.pdb
 D:\VS\TPMOD4\TPMOD4\obj\Debug\net8.0\TPMOD4.genruntimeconfig.cache
 D:\VS\TPMOD4\TPMOD4\obj\Debug\net8.0\ref\TPMOD4.dll
+D:\VS\TPMOD4\TPMOD4\obj\Debug\net8.0\TPMOD4.sourcelink.json
